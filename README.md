@@ -5,7 +5,7 @@ We modified the [origin engine](https://www.daniweb.com/programming/web-developm
   
 Host the HTML file in web server like [Apache Web Server](https://httpd.apache.org/) to get all of properties of this slider like the movement effects and storing the URLs.  
   
-![alt tag](https://github.wdf.sap.corp/storage/user/24134/files/be487a8e-29bf-11e7-8dac-5bed487f5371)
+![alt tag](https://user-images.githubusercontent.com/25906706/28717121-c7cf3658-73a0-11e7-9794-07b2e204aa69.png)
 
 ### Note:
 Because this solution depends on iframe tags and some web pages deny X-Frame option, so browser shouldn't be allowed to render those pages in iframe. More information [HERE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options)
